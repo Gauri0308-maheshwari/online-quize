@@ -1,4 +1,4 @@
-# ⚡ QuizPulse - Full-Stack MERN Online Quiz Application with Gemini AI
+# ⚡ QuizPulse - Mern-Stack Online Quiz Application with Gemini AI
 
 QuizPulse is a premium, modern, and fully responsive testing platform built on the MERN stack. Designed with a sleek visual aesthetic (including glassmorphism and light/dark theme modes), it supports secure JWT authentication, interactive student quiz interfaces, and a robust admin panel featuring an automated AI Question Generator powered by the Google Gemini API.
 
